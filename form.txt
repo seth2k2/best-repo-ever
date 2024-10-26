@@ -1,0 +1,6 @@
+class Laboratory:
+    def __inti__(self):
+        self.experiments={}
+
+    def fuse(self,slime1,slime2):
+        fused=FusedSlime(str(experimentId),'Average',,)
